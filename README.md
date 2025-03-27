@@ -8,6 +8,9 @@ A powerful and feature-rich Laravel 12.x admin panel starter kit with comprehens
 ## Features
 
 ### Core Features
+![Admin Edit User Role](https://github.com/user-attachments/assets/96340db6-cfe2-4a4b-bd20-3c11d274e819)
+
+
 - **User Authentication & Management**
   - Secure login/logout system
   - Password reset functionality
@@ -16,22 +19,30 @@ A powerful and feature-rich Laravel 12.x admin panel starter kit with comprehens
 
 - **Role-Based Access Control (RBAC)**
   - Comprehensive permission system
-  - Role management (Admin, Manager, Editor, etc.)
+  - Role management (Admin, User.)
   - Granular access control
 
+
 - **Admin Dashboard**
+- ![Admin Dashboard](https://github.com/user-attachments/assets/902d2b58-d6be-4365-a4ac-4e6329f8444a)
+
   - Clean and intuitive interface
   - Quick statistics overview
   - Recent activity tracking
   - Responsive design
 
+
 - **Content Management**
+- ![Admin Posts](https://github.com/user-attachments/assets/b1d03038-a0ef-4bff-bef1-9667e40a8eb0)
+
   - Category management with parent-child relationship
   - Post management with featured images
   - Page management
   - SEO optimization fields
 
 - **Menu Builder**
+- ![Admin Menu Item Builder](https://github.com/user-attachments/assets/c0fd5462-47ac-4952-a562-791a420ed17d)
+
   - Visual drag-and-drop interface
   - Nested menu support
   - Menu permission integration
