@@ -2,6 +2,9 @@
 
 A powerful and feature-rich Laravel 12.x admin panel starter kit with comprehensive user management, role-based access control, activity logging, and a modern UI. Perfect for quickly bootstrapping your next Laravel application with a solid administrative foundation.
 
+![Inline Preview Image](https://github.com/user-attachments/assets/d8eacc96-7777-4ea7-917e-c0c8c72515e8)
+
+
 ## Features
 
 ### Core Features
